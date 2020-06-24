@@ -1,0 +1,8 @@
+{
+  "name": "Swift",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
